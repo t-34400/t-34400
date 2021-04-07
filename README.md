@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
--In progress
+- In progress
   - 準最近接相互作用を含んだイジング模型のモンテカルロ計算
   - KdV方程式による浅水波シミュレーション
   - 2次元2重振り子
