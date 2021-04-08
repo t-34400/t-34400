@@ -14,7 +14,7 @@
   - 質点が腕の中央にある2重振り子
   - 3次元2重振り子
   - フーコーの振り子
-  - ルンゲ＝クッタ法クラス
+  - ~ルンゲ＝クッタ法関数~
 
 <!---
 t-34400/t-34400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
