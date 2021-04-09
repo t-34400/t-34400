@@ -16,6 +16,7 @@
   - フーコーの振り子
   - ~ルンゲ＝クッタ法関数~
   - ライフゲーム
+  - フーコーの2重振り子
 
 <!---
 t-34400/t-34400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
