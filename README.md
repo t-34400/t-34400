@@ -20,6 +20,7 @@
   - フーコーの2重振り子
   - 六角格子
   - 多次元格子
+  - レンズ
 
 <!---
 t-34400/t-34400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
