@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @t-34400
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @t-34400
 
-- In progress
+## 👀 I’m interested in ...
   - Unity(XR etc.)
   - Android native app
-  - 準最近接相互作用を含んだイジング模型のモンテカルロ計算
-  - KdV方程式による浅水波シミュレーション
+  - Physics simulation software
 
-- Material
+## Gists
+- [Unity-gists](https://github.com/t-34400/Unity-gists)
+- [Android-gists](https://github.com/t-34400/Android-gists)
+- [Python-gists](https://github.com/t-34400/Python-gists)
