@@ -9,3 +9,4 @@
 - [Unity-gists](https://github.com/t-34400/Unity-gists)
 - [Android-gists](https://github.com/t-34400/Android-gists)
 - [Python-gists](https://github.com/t-34400/Python-gists)
+- [Other-gists](https://github.com/t-34400/OtherGists/)
