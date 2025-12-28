@@ -1,33 +1,17 @@
-# 👋 Hi, I’m @t-34400
+I work on XR / computer vision systems with a focus on Meta Quest and Unity-based pipelines.
+My repositories mainly cover **Quest device capture**, **passthrough-based 3D reconstruction**, and **geometry-aware vision algorithms**.
 
-## 💻 Languages and Technologies
-- **C#**
-- **Python**
-- **Java**
-- **Kotlin**
-- **C/C++**
-- **SQL**
+### 🔹 Featured Projects
+- **SimpleUnity3DWebView**  
+  Lightweight 3D WebView integration for Unity on Android, designed for practical XR applications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-34400&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **QuestRealityCapture / metaquest-3d-reconstruction**  
+  End-to-end pipeline for capturing passthrough, depth, and poses from Meta Quest devices and reconstructing 3D scenes using Open3D, TSDF, COLMAP, and Gaussian Splatting.
 
-### Frameworks and Libraries
-- **Unity** (C#)
-- **PyTorch** (Machine Learning)
-- **FastAPI** (Python)
-- **Django** (Python)
-- **Vue** (JavaScript)
+- **QuestMediaProjection / MetaQuestScreenshotLoader**  
+  Utilities for screen capture, screenshot retrieval, and barcode scanning on Meta Quest via Android MediaProjection.
 
-### Tools and Environments
-- **Docker**
-- **Jupyter Notebook**
+- **Cuboid-DETR**  
+  Geometry-driven 2D cuboid detection with joint bounding box and symmetry-aware keypoint prediction, aimed at structured object understanding.
 
-## 👀 I’m interested in ...
-  - Unity(XR etc.)
-  - Android native app
-  - Physics simulation software
-
-## Gists
-- [Unity-gists](https://github.com/t-34400/Unity-gists)
-- [Android-gists](https://github.com/t-34400/Android-gists)
-- [Python-gists](https://github.com/t-34400/Python-gists)
-- [Other-gists](https://github.com/t-34400/OtherGists/)
+Most repositories are research-oriented but designed to be directly usable in real-world XR systems.
