@@ -8,5 +8,9 @@ I work on XR / computer vision systems with a focus on Meta Quest and Unity-base
   **[metaquest-3d-reconstruction](../../../metaquest-3d-reconstruction)**  
   Capture passthrough, depth, and poses from Meta Quest devices and reconstruct 3D scenes.
 
+- **[camera-fgs](../../../camera-fgs)**  
+  Experimental foreground service–based passthrough camera streaming on Meta Quest,  
+  enabling wired RGB camera streaming even while Quest Link is active.
+
 - **[Cuboid-DETR](../../../cb-detr)**  
   Geometry-driven 2D cuboid detection with joint bounding box and symmetry-aware keypoint prediction.
